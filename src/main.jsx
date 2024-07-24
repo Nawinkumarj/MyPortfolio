@@ -6,7 +6,7 @@ import  {BrowserRouter} from "react"
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <BrowserRouter basename="/Myportfolio/" />
+    <BrowserRouter basename={import.meta.env.BASE_URL} />
     <App />
   </React.StrictMode>,
 )
