@@ -1,0 +1,38 @@
+[
+    {
+        "title": "HTML",
+        "imageSrc": "html.png"
+    },
+    {
+        "title": "CSS",
+        "imageSrc": "css.png"
+    },
+    {
+        "title": "JS",
+        "imageSrc": "js.svg"
+    },
+    {
+        "title": "React",
+        "imageSrc": "react.svg"
+    },
+    {
+        "title": "Bootstrap",
+        "imageSrc": "bootstrap-framework-logo.png"
+    },
+    {
+        "title": "MySQL",
+        "imageSrc": "mysql.png"
+    },
+    {
+        "title": "AWS",
+        "imageSrc": "amazon-web-services.png"
+    },
+    {
+        "title": "Python",
+        "imageSrc": "python.png"
+    },
+    {
+        "title": "Canva",
+        "imageSrc": "canva.png"
+    }
+]
